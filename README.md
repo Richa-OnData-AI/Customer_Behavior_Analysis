@@ -1,2 +1,2 @@
 # Customer_Behavior_Analysis
-End -to-End Data Analytics Project showcasing Customer  Behavior
+End -to-End Data Analytics Project showcasing Customer  Behavior using Python+MySQL+PowerBI

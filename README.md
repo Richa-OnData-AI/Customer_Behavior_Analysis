@@ -2,4 +2,3 @@
 End -to-End Project showcasing Customer  Behavior using Python+MySQL+PowerBI
 
 # Project Description 
-

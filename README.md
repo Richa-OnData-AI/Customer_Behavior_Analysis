@@ -66,7 +66,7 @@ This project solves these problems using data analysis and visualization.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 Customer_Behavior_Analysis/
 │── data/
 │── notebooks/

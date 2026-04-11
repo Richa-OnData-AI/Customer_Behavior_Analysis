@@ -67,3 +67,9 @@ This project solves these problems using data analysis and visualization.
 ---
 
 ## 📁 Project Structure
+Customer_Behavior_Analysis/
+│── data/
+│── notebooks/
+│── visuals/
+│── reports/
+│── README.md
